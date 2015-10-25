@@ -1,0 +1,1 @@
+Use the templete setting for c++ windows VS, just replace the Animation.cpp in the skeletion with my Animation.cpp 
